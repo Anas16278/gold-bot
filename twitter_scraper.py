@@ -12,7 +12,7 @@ NITTER_INSTANCES = [
 
 # ── Accounts to monitor ───────────────────────────────────────────────────────
 TWITTER_ACCOUNTS = [
-    ("realDonaldTrump",      "Trump"),
+    ("realDonaldTrump",  "Trump"),
     ("federalreserve",   "Federal Reserve"),
     ("KitcoNewsNOW",     "Kitco News"),
     ("zerohedge",        "ZeroHedge"),
